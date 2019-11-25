@@ -5,4 +5,4 @@ Student Marksheet Database which uses Microsoft Access the database and C# as th
 The program can be run by simply running Student-Marksheet-Database.sln file in Visual Studio.
 
 # Where is the database file?
-The Microsoft Access Database file is located in the bin\debug folder, the exact file path is the following: "Student-Marksheet-Database\StudentInformationSytems\bin\Debug\Students23.accdb".
+The Microsoft Access Database file is located in the bin\debug folder, the exact file path is the following: "\StudentInformationSytems\bin\Debug\Students23.accdb".
