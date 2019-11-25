@@ -11,11 +11,8 @@ using System.IO;
 using System.Data.OleDb; //this is a class aka. Library 
 //purpose is to access DB not microsoft access mind you
 //Name: Taha Kazi
-//Assignment Name: Assignment 5
-//Date: Tuesday, June,13,2017
 //Purpose: Basically a student info system, connected to an access database, where students log in and can check their marks. For the teachers (aka Admin) they can add students, edit info about students, edit students` marks, delete students.
 //ENHANCEMENT: I used getset method for variables
-//NOTE: I tried my best in trying to get the student ID to work the best I can (referring to the last point of the basic requirement), but due to the lack of time I had this is all I could come up with....
 
 namespace StudentInformationSytems
 {

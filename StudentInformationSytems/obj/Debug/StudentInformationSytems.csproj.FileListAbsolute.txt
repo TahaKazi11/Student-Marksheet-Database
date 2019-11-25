@@ -32,3 +32,15 @@ E:\Highschool\C#\ICS 4U\Unit 4\Assignment_5\StudentInformationSytems\obj\Debug\S
 E:\Highschool\C#\ICS 4U\Unit 4\Assignment_5\StudentInformationSytems\obj\Debug\StudentInformationSytems.csproj.CoreCompileInputs.cache
 E:\Highschool\C#\ICS 4U\Unit 4\Assignment_5\StudentInformationSytems\obj\Debug\StudentInformationSytems.exe
 E:\Highschool\C#\ICS 4U\Unit 4\Assignment_5\StudentInformationSytems\obj\Debug\StudentInformationSytems.pdb
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\bin\Debug\StudentInformationSytems.exe.config
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\bin\Debug\StudentInformationSytems.exe
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\bin\Debug\StudentInformationSytems.pdb
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.csprojAssemblyReference.cache
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.frmAdmin.resources
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.frmLogin.resources
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.frmStudents.resources
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.Properties.Resources.resources
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.csproj.GenerateResource.cache
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.csproj.CoreCompileInputs.cache
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.exe
+C:\Users\HP\Student-Marksheet-Database\StudentInformationSytems\obj\Debug\StudentInformationSytems.pdb
