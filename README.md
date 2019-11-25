@@ -8,10 +8,10 @@ The program can be run by simply running Student-Marksheet-Database.sln file in 
 The Microsoft Access Database file is located in the bin\debug folder, the exact file path is the following: "\StudentInformationSytems\bin\Debug\Students23.accdb".
 
 # Log-in Form Demo
-![]("images\login.PNG")
+![]("images/login.PNG")
 
 # Admin Form (Admin Mode) Demo
-![]("images\admin.PNG")
+![]("images/admin.PNG")
 
 # Student Form (User Mode) Demo
-![]("images\user.PNG")
+![]("images/user.PNG")
